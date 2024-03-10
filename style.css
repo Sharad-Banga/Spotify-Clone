@@ -875,6 +875,9 @@ padding-top: 10px;
         display: flex;
         flex-direction: column;
         align-content:space-between ;
+        margin-top: 70px;
+        margin-bottom: 50px;
+        margin-left: 20px;
     }
     .main_box .main1 .header .search {
         margin-top: 10px;
